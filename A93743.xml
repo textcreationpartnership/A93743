@@ -1,0 +1,588 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jeremiah VI.4. Wo unto us for the day goeth away, for the shadows of the evening are stretched out</title>
+            <author>Stafford, Richard, 1663-1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 58 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93743</idno>
+            <idno type="STC">Wing S5121A</idno>
+            <idno type="STC">ESTC R184558</idno>
+            <idno type="EEBO-CITATION">99895534</idno>
+            <idno type="PROQUEST">99895534</idno>
+            <idno type="VID">153003</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93743)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153003)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2339:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Jeremiah VI.4. Wo unto us for the day goeth away, for the shadows of the evening are stretched out</title>
+                  <author>Stafford, Richard, 1663-1703.</author>
+               </titleStmt>
+               <extent>23, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>With a final leaf of advertisement.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Cm copy cropped affecting numbering.</note>
+                  <note>Reproduction of original in the Magdalene College Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Jeremiah VI, 4 --  Commentaries --  Early works to 1800.</term>
+               <term>Christian literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Louis Goldberg</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Louis Goldberg</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:153003:1" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:153003:1"/>
+            <head>Jeremiah VI. 4. Wo unto us for the Day goeth away, for the ſhadows of the Evening are ſtretched out.</head>
+            <p>THE word, <hi>Wo,</hi> is often mentioned in Scripture; eſ<g ref="char:EOLhyphen"/>pecially in the Old Teſtament, and is a relative Term, ſignificant of Evil and Miſery to come. For <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at ſame <hi>Wo,</hi> which is now denounced againſt ſuch or <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ch People, will after this Life is ended, fall down upon <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>em in Puniſhment and Miſery. Hence doth ariſe that <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>et <hi>Thought and Searching of Heart</hi> in the Creature to<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ards the Creatour, who is the Lord our God. A doubt <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d fear doth naturally ſpring up in our minds, as if God <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould inflict pain and make us miſerable in the future State, <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d thereupon from this thing of Death, which is the Inlet <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d Entrance thereinto, we expect no Good but Evil. Here a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>in our Spirits may be quiet and ſatisfied, for it is evident, <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>re are ſeveral things which we are greatly afraid of at <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> firſt apprehenſion and thoughts concerning them; But <gap reason="illegible" resp="#APEX" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>er we have experienced the very ſame thing it ſelf we <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d no dreadfulneſs or Evil at all in it, but rather good <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d conveniency: So that according to the common ſay<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> herein, <hi>We are more frightened then hurt,</hi> and ſuch may <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ath be. Yea certainly ſo it is to the Children of God, <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o are <hi>Heirs of Salvation,</hi> which includes in it ſelf both <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and Immortality.</p>
+            <p>There is a viſible reaſon of that natural fear of Death, <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cauſe it is altogether evil and to be abhorred what is
+<pb n="2" facs="tcp:153003:2"/> ſeen to befall the Body, as Pain, Languiſhing, Weakneſs diſtortion of countenance, and then lying in the Grave and <hi>ſeeing Corruption,</hi> and ſuch like. And yet all theſe Evil <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Terrible things do no more touch, nor yet affect the man himſelf, that is, his Soul, than when <hi>the Angel of the Lord ſmote</hi> Peter <hi>on the ſide, and raiſed him up, and his Chains fel<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> off from his hands.</hi> As all this was no great hurt to th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Soul, nor yet to the Body of <hi>Peter:</hi> Even ſo it wil<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be when the Angel of Death ſhall knock off theſe Chain of Fleſh wherein and wherewith at preſent we a<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> holden and fettered; then alſo the Soul is <hi>Raiſed up o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of its earthly Habitation</hi> (ſee Zech. 2. 13.) and <hi>returns</hi> an<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> aſcends up to <hi>God that gave it.</hi>
+            </p>
+            <p>Nevertheleſs ſtill there being a <hi>Wo</hi> pronounced in th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Text indefinitely againſt us, which ſignifies as if it di<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pertain to all Mankind both good and bad, Saint an<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Sinner; and every one, whither Godly or Ungodl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> finding within himſelf ſome grief and vexation, fe<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and anguiſh at this conſideration of his preſent li<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> going away, and at laſt it will come quite to an en<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> We muſt not flatter nor delude our ſelves as if the<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> was nothing at all to be feared in it, for this <hi>Wo</hi> pr<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>nounced by the Spirit of God, doth ſeem to preſuppoſe a<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> relate unto ſome future Evil. Again, whatever is Nature General and Univerſal in every one, as the fear of Dea<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is, This ſame thing can never be in vain, but there <gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſome reality to which it hath Reſpect.</p>
+            <p>The Apoſtle ſaith, <hi>As touching Brotherly love ye n<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> not that I write unto you, for ye your ſelves are taught <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> God to love one another.</hi> So here it may be reaſon<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> There is no need to be taught out of the Scriptures, H<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that our preſent life and time goeth away. For by t<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> common knowledge and experience that God hath giv<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to every Man, they are ſenſible already: Nay, t<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> muſt know it whither they will or not, that their l<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and their Time goeth away. But <hi>God willing more bundant to ſhew unto the heirs of promiſe the Immutab<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of his counſel herein.</hi> As alſo, that the common and <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> multitude of Mankind may be more without exc<gap reason="illegible" resp="#APEX" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> if they have not provided for their latter end. I<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="3" facs="tcp:153003:2"/> concerning this (as here it too commonly happens) that <hi>Man alſo knoweth not his time, As the fiſhes that are taken in an evil net, and as the Birds that are caught in the Snare, ſo are the Sons of Men Snared in an evil time when it falleth ſuddenly upon them.</hi> To give yet more repeated warning of all this God hath ordered it to be written alſo, how that our Life and our Time goeth a<g ref="char:EOLhyphen"/>way. For ſo it is expreſſed in the words of our Text, <hi>Wo unto us for the Day goeth away, for the ſhadows of the Evening are ſtretched out.</hi>
+            </p>
+            <p>The words are Metaphorical and ſignifie the very ſame as what is aforementioned, that our life goeth a<g ref="char:EOLhyphen"/>way. But the Metaphor ſeems to be borrowed from the Sun that greater light, which God Created and placed in the Firmament to Rule ouer the Day, and to di<g ref="char:EOLhyphen"/>vide the Light from the Darkneſs. For as long as that is above our Horiſon, than it is Day; but when it moves beneath the Horiſon, then the ſhadows of the Evening are ſtretched out and the Night comes on.</p>
+            <p>Again it is not unknown to any one that is under<g ref="char:EOLhyphen"/>ſtanding in the Scriptures, that the time of Mans pre<g ref="char:EOLhyphen"/>ſent Life is often expreſſed by this manner of ſpeech, <hi>his Day. If thou hadſt known in this thy Day the things that belong to thy peace, but now they are hid from thine eyes. To Day if ye will hear his voice, harden not your heart as in the Day of Provocation, and as in the Day of temptation in the Wilderneſs. I have ſpread out my hands all the Day un<g ref="char:EOLhyphen"/>to a Rebellious people. For he ſaith, I have heard thee in an accepted time, and in the Day of Salvation have I ſuccoured thee. Behold now is the accepted time, Behold now is the Day of Salvation.</hi> In all theſe and alike places the word, <hi>Day,</hi> ſignifies all the time of Mans preſent life here on Earth. And ſo it doth in this place of <hi>Jer.</hi> 6. 4.</p>
+            <p>I ſhall not confine my ſelf to the primary intent, or exact coherence of the words, as they are in the Text, but I ſhall treat of them in the large and com<g ref="char:EOLhyphen"/>mon ſignification aforementioned, How that our Life and Time here on Earth paſſeth away, and becauſe I am given to underſtand, that ſeveral do impute it as
+<pb n="4" facs="tcp:153003:3"/> a fault and defect in my preaching, In that I go on altogether in one continued diſcourſe. But I do not ſo much make mention of the words, <hi>Firſt, Secondly Third<g ref="char:EOLhyphen"/>ly,</hi> as other Miniſters and Preachers do, which as they ſay is more for help of the memory, and for the edifi<g ref="char:EOLhyphen"/>cation of the hearers. Therefore I who have thought good to <hi>become all things to all Men, that I might gain</hi> Some, have thought good to handle this our preſent Text in the following method of theſe two propoſitions, and afterwards I may draw from thence ſome Practi<g ref="char:EOLhyphen"/>cal Inferences, which is commonly called the uſe or Application,</p>
+            <p>From the words, <hi>Wo unto us for the Day goeth away,</hi> I ſhall endeavour to ſhew, together with the Reaſon or Reaſons thereof, that it is a melancholy and ſorrowful conſideration in all people, to conſider throughly, how that our preſent Life goeth away: And this I gather from the firſt introductory word, <hi>Wo unto us.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> Becauſe that all the <hi>Wo's</hi> or Threatnings de<g ref="char:EOLhyphen"/>nounced in Scripture are therefore made known to the Inhabitants of the Earth, in order that they may take warning and avoid that ſame <hi>Wo</hi> or Threatning <hi>(Thus Saith the Lord, Behold I Frame evil againſt you, and deviſe a device againſt you.</hi> Here is the Threatning, but immedi<g ref="char:EOLhyphen"/>ately the way is ſhewn how the ſame may be avoided, <hi>Return ye now every one from his evil way, and make your ways and your doings good.</hi> Jer. 18. 11.) I ſhall therefore a<g ref="char:EOLhyphen"/>gain endeavour to ſhew from the Scriptures and from the truth of things, how our Life and Converſation may be ſo ordered aright, that the Salvation of God may be ſhewn unto us; and then though our Life goeth away, yet we ſhall avoid the <hi>Wo</hi> that it will not belong unto us. Can any matter be more uſeful and comfortable than this laſt, wherefore it is <hi>worthy of all acceptation</hi> and attention even from the people of the World, as well as from Believers. For it is not a <hi>going after vain things that cannot profit nor deliver, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or they are vain.</hi> But <hi>Chriſt</hi> the Eternal word, and the
+<pb n="5" facs="tcp:153003:3"/> words of his truth, do profit and deliver from the evil day, and from the <hi>wrath to come.</hi>
+            </p>
+            <p>As to the firſt thing propoſed to be ſpoken unto, As <hi>Baruch</hi> did ſay, <hi>Wo is me now; for the Lord hath added grief to my ſorrow,</hi> So here ſome people may be apt to think, Wo unto us Mortal Creatures. We do not care to hear much of this, for this will be to add grief to our ſorrow. We are ſo ſenſible of it already, that we would not have it yet made more ſenſible and affli<g ref="char:EOLhyphen"/>cting by more doleful words concerning it. There is no need to rub up an old ſore, which doth Pain and Ake already. But here to purſue the ſame ſimilitu<g ref="char:EOLhyphen"/>de, it is good and ſometimes neceſſary to launce a ſore in order to the cure of it. So likewiſe the very ſame ſtands in the Nature and connexion of things, It is good to know the very worſt of things, if we would have them be remedied and made better, As ſo is our caſe and ſubject in hand, to which the thread of our following diſcourſe may lead and ſhew,</p>
+            <p>It may be affirmed, That all the Grief and Sorrow which we have in this World, doth tend or relate unto this ground thereof, how that our life goeth away. Though it be deemed at firſt to proceed forth from ſome other outward cauſe, yet it may be brought back to this ori<g ref="char:EOLhyphen"/>ginal cauſe; ſuch or ſuch People are therefore Melan<g ref="char:EOLhyphen"/>choly, Sorrowful or Troubled, becauſe the day of their life goeth away. For as life is the firſt thing loved and deſired, becauſe by it we are rendred capable to reliſh and enjoy all other things: So it is proportion<g ref="char:EOLhyphen"/>able Grief and Vexation in the Creature, to think that at length it muſt part there withall.</p>
+            <p>This is the ſting of Poverty (which is eſteemed the worſt of outward evils for it is of longeſt duration and commonly extending throughout ones life) for a thought of unbelief doth ariſe in the heart, as if this vain fugi<g ref="char:EOLhyphen"/>tive life which is <hi>as a vapour and continueth not,</hi> was our all. And thereupon is unexpreſſible Grief and Vex<g ref="char:EOLhyphen"/>ation that here we ſhould <hi>have our evil things</hi> and not our <hi>good things</hi> alſo, as well as others. Eſpecially when the language of unbelief whiſpers farther, that they
+<pb n="6" facs="tcp:153003:4"/> are but once to be had for all. But here again, let the full aſſurance of Faith once come in concerning that future and endleſs life, wherein it ſhall be ſaid and fulfilled as to this than paſt life, <hi>Son, remember that thou in thy life time received'ſt thy good things, and likewiſe Lazarus evil things, but now he is Comforted and thou art Tormented.</hi> This ſame conſideration and knowledge before hand will make it both tolerable and eaſy to receive evil things here, and alſo to be fearful of receiving good things; for ſo it is eſteemed and called by the people of the World, the immoderate uſe of Corn and Wine.</p>
+            <p>Again, To go unto other inſtances, This ſame is the thing which makes ſickly People, or who are in declining or old Age, ſo Fretful Waſpiſh and Froward or Envi<g ref="char:EOLhyphen"/>ous. The ſame is likewiſe obſerved of deformed or crooked people, as alſo of old Maidens who are not given to Marriage, And ſo it is of Eunuchs or inſuffici<g ref="char:EOLhyphen"/>ent People. For in theſe and alike caſes <hi>The eyes of all look unto thee.</hi> The thoughts of the hearts of theſe Creatures, who find themſelves miſerable and defective in ſome one thing, are towards their inviſible Creator And a reaſoning doth ariſe within them, which doth terminate in ſecret indignation and vexation, Why ſhouldſt thou not make me as happy and compleat, or do the ſame for me, as for my fellow Creatures?</p>
+            <p>Theſe thoughts ſhould be ſilenced again with the con<g ref="char:EOLhyphen"/>ſideration of God's abſolute ſovereignty, <hi>Hath not the Potter power of the Clay, to make one veſſel to Honour and another to diſhonour?</hi> God is glorified in the ſeve<g ref="char:EOLhyphen"/>ral variety of his works. He may do what he will with his own, and who may ſay unto him, what doſt thou? We ſhould ſhew our ſelves contented and pati<g ref="char:EOLhyphen"/>ent, and thus glorify him however he hath formed us. <hi>Neither let the Son of the ſtranger that hath joyned him<g ref="char:EOLhyphen"/>ſelf to the Lord, ſpeak, ſaying, The Lord hath utterly ſepara<g ref="char:EOLhyphen"/>ted me from his people: Neither let the Eunuch ſay, Be<g ref="char:EOLhyphen"/>hold I am a dry Tree.</hi> In both theſe ſayings of theirs, there is an inward repining becauſe they are not made and placed in the ſame advantages and priviledges, and capable to enjoy the ſame delights with their other
+<pb facs="tcp:153003:4"/> fellow Creatures. But what ſaith the anſwer of God their Creator unto them? <hi>For thus ſaith the Lord unto the Eunuchs that keep my Sabbaths, and chooſe the things that pleaſe me and take hold of my Covenant, even unto them will I give in my houſe a place and a name, better than of Sons and of Daughters: I will give them an everlaſting name that ſhall not be cut off. Alſo the Sons of the ſtranger that joyn themſelves to the Lord, to ſerve him and to love the name of the Lord, to be his Servants, Every one that keepeth the Sabbath from polluting it and taketh hold of my Covenant: Even them will I bring to my Holy Moun<g ref="char:EOLhyphen"/>tain, and make them joyful in my Houſe of prayer, Their Burntofferings and their Sacrifices ſhall be accepted upon mine Altar,</hi> Iſa. 56. 3, 4, 5, 6, 7, Here the Bleſſing and Promiſe is proportioned; yea it is more than equivalent to what they complained of and murmured at. But from hence we may learn, that whatever our failure is of the common accompliſhments and endowments of humane Nature, and in whatſoever we come ſhort of the reſt of our Brethren which they have and we have not; here let us be ſure to ſerve God and be obedient unto him, which is expreſſed in all thoſe apt phraſes of the Holy Ghoſt, <hi>That keep my Sabbaths and chooſe the things that pleaſe me, and take hold of my Covenant and joyn themſelves unto the Lord, and love the name of the Lord to be his Servants.</hi> If we are carefull and diligent and conſtant to do all this, God will aſſuredly make up for our imperfection (which we are apt to ſuppoſe our preſent miſery) in the time of the <hi>Reſtitution of all things:</hi> Even what ſhall anſwer in kind to that ſame failure and imperfection, as ſo is giving to the Eunuchs <hi>a place and a name better than of Sons and Daughters.</hi> And to the <hi>Son of the ſtranger that had ſaid, the Lord hath utterly ſeparated me from his people, him will he bring to his Holy Mountain and make him joyful in his Houſe of prayer</hi> Which is not ſeparating him from his people. for there it is that his people are gathered and aſſembled to<g ref="char:EOLhyphen"/>gether.</p>
+            <p>It doth indeed ſeem diſingenuous (for it is not alto<g ref="char:EOLhyphen"/>gether ſo worthy as what proceeds from the principles
+<pb n="8" facs="tcp:153003:5"/> of Love Proſperity and Thankfulneſs) when people are as it were forced and driven to fear and ſerve God out of a ſence of their Miſery and Affliction. But ſince there is a degree and tincture of that in the moſt healthful and proſperous perſon, for he alſo is Subject unto Affliction and Miſery through the fear and appro<g ref="char:EOLhyphen"/>ach of Death. And God doth accept of ſuch a ſervice though it is joyned with ſuch thoughts of Heart, as may be underſtood from <hi>Iſa.</hi> 56. <hi>Deut.</hi> 4. 30. 31. Therefore receive and follow this inſtruction, All ye that ſhall hear or read theſe words, O Man or Woman the more miſerable thou art as to this world: Do thou ſo much the more ſerve God and abound in well doing; and than it will be better for thee at the end and diſtribu<g ref="char:EOLhyphen"/>tion of all things, then if thou haſt been the moſt happy perſon that ever lived on this Earth.</p>
+            <p>When our Soul is vexed and diſquieted within us, Either becauſe we have not good and comfortable things here, or becauſe whatever delights ſoon paſſeth away, and we are gone, there commonly at the very ſame time doth ſpring up a root of unbelief, as if we were to be no more for ever. And we being told and appre<g ref="char:EOLhyphen"/>henſive that there is a <hi>good thing</hi> ſet out for the Sons of Men; Hereupon indignation and anguiſh doth ariſe that our time here ſhould paſs away, and yet that ſame good thing <hi>is not had by us.</hi> Hence alſo is ſecret vexa<g ref="char:EOLhyphen"/>tion when the Natural ends of our Creation are not anſwered. And ſo purſue the reaſoning part of all Trou<g ref="char:EOLhyphen"/>ble, Melancholy, Sorrow, or ſuch like, and it will at length tend to this that therefore <hi>our Soul is full of troubles</hi> becauſe <hi>our life draweth nigh unto the Grave,</hi> Pſal. 88. 3. Thence doth ariſe more fretfulneſs of temper when the ſting of Death doth put it ſelf forth yet nearer towards us. The reaſonable Creature expected to have good in this life, but the day goeth away and the good is not had; <hi>The ſummer is ended, and we are not ſaved.</hi> And than again, unbelief doth dictate and whiſper, that if the <hi>good thing</hi> be not had here, we know not when it will be had. <hi>When I thought to know this, it was too painful for me. Thus my heart was grieved and I was pricked in my reins: So fooliſh was I and ignorant, I was as a beaſt
+<pb n="9" facs="tcp:153003:5"/> before thee,</hi> Pſal. 73. 16, 21, 22. This laſt is juſt to be ſen<g ref="char:EOLhyphen"/>ſible of and groan under the preſent pain, but not to apprehend any thing further. And ſo is every one meerly as he is a Man. But than as a Believer he is car<g ref="char:EOLhyphen"/>ried and advanced higher, even to ſpeak after that man<g ref="char:EOLhyphen"/>ner as he doth in the following verſes, <hi>Nevertheleſs I am continually by thee: Thou haſt holden me by my right <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>and.</hi> Here he comes to the knowledge of his Creator and Preſerver, and than afterwards he hints forth, how that God will be the reſtorer of Mankind, by giving <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hem a Reſurrection and future ſtate. <hi>Thou ſhalt guide me with thy counſel, and afterward receive me to glory.</hi> This Faith and Knowledge of futurity, is conſolato<g ref="char:EOLhyphen"/>ry to all preſent Griefs, Pain or Trouble. As we are reaſonable Creatures, ſo we ſhould uſe and exert forth this ſame reaſon when we are amidſt and under af<g ref="char:EOLhyphen"/>fliction,</p>
+            <p>
+               <hi>Why</hi> (It is an Adverb of Interrogation and Reaſoning) <hi>art thou caſt down O my Soul, and why art thou diſquie<g ref="char:EOLhyphen"/>ted within me? Hope in God, for I ſhall yet praiſe him, who is the health of my countenance and my God.</hi> Here the Pſalmiſt doth endeavour to quiet his diſſatisfied Spirit with this ſhort thought and ſpeech, <hi>Hope in God.</hi> But as it is elſewhere written, <hi>I remembred God and was troubled.</hi> Even ſo here the cure and remedy is to riſe the ſame way, as the Grief and Malady doth. For as God is the Creator and orderer of all things, and as himſelf ſpeaks in his word. <hi>Shall there be evil in a City and the Lord hath not done it?</hi> And it is ex<g ref="char:EOLhyphen"/>preſly ſaid, <hi>That the Lord doth cauſe grief.</hi> So of all the griefs and evils which poor Mankind do endure in this vale of tears, it is ſuppoſed that God hath an hand in it and that he is the Authour and Ordainer of them, which indeed is true; and thence it is, becauſe <hi>no chaſtening for the preſent ſeemeth joyous but grievous,</hi> That hard thoughts do ariſe in the hearts of ſome againſt his Divine Majeſty, who either do not believe, or not know throughly and conſider further<g ref="char:punc">▪</g> that the ſame <hi>chaſten<g ref="char:EOLhyphen"/>ing doth afterwards yield the Peaceable fruit of Righteouſneſs unto them which are exerciſed thereby,</hi> Heb. 12. 11. <hi>For the
+<pb n="10" facs="tcp:153003:6"/> Lord will not caſt off for ever: But though he cauſe grief yet will he have compaſſion according to the multitude of his mercies. For he doth not afflict willingly, nor grieve th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Children of Men,</hi> Lam. 3. 31, 32, 33, To ſuch people who have Faith and Spiritual knowledge, all the griefs and miſeries of this preſent life, do but lightly affec<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them: Becauſe all things here are ſo very little, fugi<g ref="char:EOLhyphen"/>tive and vain, and nothing here is ſo evil but what may and can be endured, and <hi>the Spirit of Man</hi> will bear u<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> againſt it, as to outward temporal things. But th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> great thought and ſearching of heart is concerning wha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is ſaid in this ſame Lamentations, <hi>That the Lord w<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> not caſt off for ever.</hi> And ſo how God will ſhew an<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> approve himſelf unto us throughout eternity, Henc<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> doth ariſe all the fear and doubt. But here again this ſame word ſpeaks peace to the Soul, <hi>Hope i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> God for I ſhall yet praiſe him, for he is the health of m<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> countenance and my God.</hi> The object of hope is goo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> things, or an expectation of good things; and here is ſpeech of aſſurance, <hi>I ſhall yet praiſe him.</hi> Indeed <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will be the buſineſs and employment in Heaven of ſuc<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Souls as ſhall be ſaved, to praiſe God for that exceed<g ref="char:EOLhyphen"/>ing and eternal Bleſſedneſs which he will give un<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and inveſt them withall; and make it ſo ſure un<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> them, that it ſhall never be taken from them, no<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they from it. There it is, and there only that <hi>we w<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> rejoyce in thy Salvation, and in the name of our God <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> will ſet up our banners;</hi> even when we have ſcaled an<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are aſcended up into the Kingdom of Heave<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Which from the days of <hi>John</hi> the Baptiſt <hi>Suffereth vi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>lence and the violent take it by force.</hi> He that <hi>overcom<g ref="char:EOLhyphen"/>eth, I will his God and he ſhall be my Son.</hi> And y<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ought in the mean while to praiſe our God for givi<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> unto us <hi>exceeding great and precious promiſes:</hi> For a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>fording us the means of grace, and for the hope Glory; and for putting us into a poſſibility of ſeekin<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> now, and at laſt of obtaining thoſe great and <hi>glori<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> things that are ſpoken of thee, O City of God,</hi>
+            </p>
+            <p>Amidſt all the caſtings down and diſquietudes Soul, Under all the thoughts which trouble us, <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb n="11" facs="tcp:153003:6"/> ſhould go on ſtill in the way of Duty, with this Faith and aſſurance, <hi>I ſhall yet praiſe God,</hi> Though perhaps the affliction is ſo ſore, and the diſappointment ſo vexatious, that we are tempted in heart in like manner as <hi>Job's</hi> Wife did him, <hi>curſe God and die.</hi> We may beat back and anſwer the temptation with a like ſaying of his, <hi>Thou ſpeakeſt as one of the fooliſh Women ſpeaketh.</hi> For this would be the utmoſt folly that can be, if we ſhould go the way and do thoſe things to be miſerable here, and miſerable hereafter alſo; as that would be if we <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hould curſe him whom we ought to praiſe. What if we do now receive evil at the hand of God, nothing <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s ſo ſure as that we ſhall receive good at the latter and; provided that like unto his Servant <hi>Job</hi> we do <hi>not ſin in the mean while,</hi> nor yet charge God fooliſhly.</p>
+            <p>
+               <hi>I ſhall yet praiſe him who is the health of my countenance and my God.</hi> This thing, <hi>health of my countenance,</hi> is a relative term and doth anſwer unto and preſuppoſe ſome ſickneſs of Body or Mind, which the Pſalmiſt in probability was than under. As ſickneſs of Body is a forerunner of dying and Death, the Subſequent word, <hi>My God,</hi> contains in it life for evermore. For the ſame Creator that gave life at firſt, will again renew and reſtore it. <hi>Who turneth Man to Deſtruction, will ſay, re<g ref="char:EOLhyphen"/>turn ye Children of Men.</hi> Herein he doth take care of and provide againſt the evil of Mortality, Corruption and Diſſolution. The ſame God, who is a very preſent help in the time of trouble, is alſo all things ſutable and proportionable to the ſeveral needs and requirings of his Creatures. <hi>For thou haſt been a ſtrength to the poor, a ſtrength to the needy in his diſtreſs, a refuge from the ſtorm, and a ſhadow from the heat.</hi> Now what is more proper and ſutable under ſcorching neat, than to get into the ſhade, and ſo when a ſtorm beats upon us to get ſome<g ref="char:EOLhyphen"/>what for refuge from it.</p>
+            <p>As it is written, <hi>And when all things ſhall be ſubdued unto him, than ſhall alſo the Son himſelf be Subject to him that put all things under him, that God may be all in all.</hi> So in the future ſtate God will be all in all towards the making up the perſection and happineſs of his Crea<g ref="char:EOLhyphen"/>tures;
+<pb n="12" facs="tcp:153003:7"/> That <hi>he ſhall not be aſhamed to be called their God.</hi> By Providing for and ſecuring unto them things worthy of ſo great and good a God, and as much as a Creature can receive. Behold what a mighty word of conſolation is here! As alſo it is a moſt quickening Exhor<g ref="char:EOLhyphen"/>tation to enforce that of the Apoſtle. <hi>What manner of perſons ought ye to be in all Holy converſation and God<g ref="char:EOLhyphen"/>lineſs, looking for and haſting unto the coming of the day of God;</hi> that ye may get the favour and love of God whilſt <hi>ye are yet in the way.</hi>
+            </p>
+            <p>But if theſe things are ſo (as moſt certainly they are) then ſome may be apt to put me in mind of my Text, and ask how it comes to paſs that a wo is pronounc<g ref="char:EOLhyphen"/>ed, for the day goeth away? Which going away of the day doth ſet us yet nearer to theſe happy things, Might it not be more properly ſaid inſtead of that <hi>Wo</hi> pronounced, Bleſſed and Happy it is for us that the day goeth away. And truly becauſe of that vanity and vexation of Spirit which is in all things under the Sun Becauſe of that Tediouſneſs and Irkſomeneſs of life becauſe of that finall variety of all the things below; and it is all but almoſt the ſame thing over and over again In my thinking it would be <hi>Wo</hi> unto us if the day did not go away. For we ſhould be even weary and not able to abide here for ever if we might abide ſo in this ſtate and as things now are.</p>
+            <p>But the anſwer to the former part of this objection may be had by diſcourſing on our ſecond Propoſition, <hi>viz.</hi> Becauſe that all the <hi>Wo's</hi> and Threatnings denounced in Scripture are therefore made known unto the Inha<g ref="char:EOLhyphen"/>bitants of Earth, in order that they may take warning, and avoid that ſame <hi>Wo</hi> or Threatning, we are to learn from the Scriptures and from out of the truth o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> things, how our <hi>converſation</hi> may be ſo <hi>ordered aright,</hi> that the <hi>Salvation of God may be ſhewn unto us.</hi> And then though our life goeth away, we ſhall avoid the <hi>Wo,</hi> that it will not belong unto us.</p>
+            <pb n="13" facs="tcp:153003:7"/>
+            <p>This is moſt certain, that a <hi>Wo</hi> doth belong unto us, and will at laſt fall down upon our head to our end<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſs confuſion and miſery, if we do not finiſh that work which God our Creator ſent us ſeverally on this this Earth for to do. Said <hi>Jeſus</hi> the forerunner, who is entred before us into the vail. <hi>I muſt work the works of him that ſent me while it is day, the night cometh when no man can work. I have glorified thee on the Earth, I <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ave finiſhed the work which thou gaveſt me to do.</hi> Chriſt's work was laying the foundation for all to build on: He finiſhed the Work which God gave him to do. And ſo every Soul ſhould Work out that which he hath wrought and accompliſhed for us. Which ſame Work is to be done in this life, that being <hi>the accepted <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ime</hi> for the Night or darkneſs of Death draws on, and there is <hi>No work, nor deviſe, nor knowledge, nor wiſdom, in the grave whither thou goeſt.</hi> And therefore if we neglect to finiſh that Work, <hi>Wo</hi> unto us for the day goeth away, for the ſhadows of the Evening are ſtretched out. <hi>The Son of Man hath given to every Man his work, and command<g ref="char:EOLhyphen"/>ed the Porter to watch.</hi> So that of neceſſary conſequen<g ref="char:EOLhyphen"/>ce there muſt be a <hi>Wo</hi> if that time ſhould ſlip away, and the ſame Work is not done for which that ſame time was originally ſet out and intended. There is the ſame rule of contraries: And ſeeing that the Scrip<g ref="char:EOLhyphen"/>ture pronounces that <hi>Servant bleſſed whom his Lord when he cometh ſhall find ſo doing.</hi> Then on the other hand, that Servant or rather idle Perſon, is curſed and a <hi>Wo</hi> is unto him, if the Lord when he cometh ſhall not find him ſo doing, but loytering, or doing that which is ſinful or evil,</p>
+            <p>There is a <hi>Wo</hi> pronounced againſt, or doth belong to every Sin, Iniquity, Tranſgreſſion, Diſobedience or any manner of evil. As appears both from the old Teſta<g ref="char:EOLhyphen"/>ment and the New. In both which we find this word <hi>Wo</hi> ſpoken forth againſt them; and where it is not ſpoken forth in expreſs words; Nevertheleſs it may be underſtood that it doth appertain thereunto. <hi>For the
+<pb n="14" facs="tcp:153003:8"/> word of God ſpoken</hi> (or written) <hi>is ſtedfaſt and every diſ<g ref="char:EOLhyphen"/>obedience and tranſgreſſion receiveth a juſt recompence of reward</hi>
+            </p>
+            <p>As aforeſaid, that all trouble, grief or ſuch like dot<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hence ariſe, becauſe our life goeth away: So likewiſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our ſorrow may be reduced and brought back to thi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> original cauſe, Becauſe we have ſinned. Both theſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> obſervations agree and meet together in one. The mat<g ref="char:EOLhyphen"/>ter truly is this, We are ſorrowful becauſe we hav<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſinned, and we are ſorrowful becauſe our Life goet<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> away. For we are afraid that a Puniſhment (which wi<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> make miſerable) will be inflicted on us for the ſam<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſin, after this preſent Life (which is now going away ſhall be ended.</p>
+            <p>Now the Decree, Juſtice and Will of God ſtands on th<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> wiſe, Sin committed muſt have its Puniſhment to b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> inflicted unleſs the ſame ſin is pardoned. Hence th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Soul is in continued fear and doubt until ſhe hath th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Reconciliation of God; Until ſhe hath his Voice an<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Spirit witneſſing from within her ſelf, <hi>Son or Daugh<g ref="char:EOLhyphen"/>ter, be of good chear, Thy ſins are forgiven thee.</hi>
+            </p>
+            <p>Again, ſeeing that we have all ſinned and are worth<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of puniſhment after this life ſhall be ended, here w<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhould cry mightily unto God and <hi>offer up ſtrong cryin<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with tears in theſe days of our fleſh, that we may be hear<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in that we fear before him.</hi> And like our Father <hi>Jaco<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> wreſtle with God in effectual fervent and continue<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Prayer <hi>until the breaking of the day</hi> of immortality And be yet more earneſt and importunate with God by how much the nearer it is to the <hi>day breaking,</hi> 
+               <gap reason="illegible" resp="#APEX" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> as the Soul is yet nearer breaking forth out of the ſhel<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the Body into the World to come, the place of <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ternal and unchangeable light. <hi>And we will not let Go<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> go except he Bleſs us,</hi> with the <hi>Bleſſing which the Lor<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hath commanded even life for evermore;</hi> Immediatel<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> after this life, which is as a vapour and continuet not, ſhall be ended.</p>
+            <p>Saith <hi>Job</hi> to God, <hi>I have ſinned. What ſhall I do to th<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> O thou preſerver of Men? Why haſt thou ſet me as <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> mark againſt thee, ſo that I am a burden to my ſelf.</hi> Cha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 7. v. 20. This laſt confirms the truth of what wa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> juſt now ſpoken, That ſorrow is becauſe of ſin, an<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="15" facs="tcp:153003:8"/> as a conſequent thereunto: for therefore it was becauſe <hi>Job</hi> had ſinned, he was a burden to himſelf. The verſe immediately following doth ſhew and intimate that there is ſorrow and fear in the Soul for want of forgiveneſs of ſins, as appears from this Pathetical and earneſtly deſired queſtion, or rather it is a kind of expo<g ref="char:EOLhyphen"/>ſtulation in Prayer. <hi>And why doſt thou not pardon my Tranſgreſſion and take away mine Iniquity? For now ſhall I ſleep in the duſt and thou ſhalt ſeek me in the morning and I ſhall not be.</hi> If we were ſure that God would do thus, we could as contentedly and without fear lye down in the Grave as in a bed of Roſes or Violets, or as we take our common reſt by Night, which the Holy Ghoſt doth give us here to underſtand by this phraſe, <hi>I ſhall ſleep in the duſt.</hi> Now there is nothing of dreadfulneſs or evil in ſleep.</p>
+            <p>The Scripture is all along conſonant and agreeable to it ſelf in every thing, eſpecially in this truth, how that the <hi>ſting of Death is ſin.</hi> So that it would be nei<g ref="char:EOLhyphen"/>ther dreadful nor evil, if this ſame ſting was plucked out or (what is equivalenta and tantamount thereunto) if this ſame ſin was pardoned and taken away. <hi>Com<g ref="char:EOLhyphen"/>fort ye, comfort ye my people ſaith your God. Speak ye com<g ref="char:EOLhyphen"/>fortably to Jeruſalem.</hi> (In the margent there it is, ſpeak to the heart) <hi>And cry unto her that her warfare is accom<g ref="char:EOLhyphen"/>pliſhed, that her iniquity is pardoned,</hi> Iſa. 40. 1, 2. In theſe words again, the word of conſolation is contained, <hi>her iniquity is pardoned.</hi> For I do hereby appeal to the con<g ref="char:EOLhyphen"/>ſcience of all thoſe who ſhall hear or read theſe words whither this is not ſpeaking comfortably to ye, or ſpeak<g ref="char:EOLhyphen"/>ing to your heart; that is, what anſwers to your hearts deſire and wiſh, to have aſſurance, that now thine and my warfare here on Earth doth draw ſo very nigh to be accompliſhed, that here we have our iniquity par<g ref="char:EOLhyphen"/>doned. If the Lord grant me this my requeſt, as the ſame is my daily Prayer (I would I could, truly ſay, my conſtant endeavour was ſo likewiſe, as is hereafter explained) I know not what I could deſire better on this ſide of Heaven. For if my iniquity is pardoned, then
+<pb n="16" facs="tcp:153003:9"/> that thing is taken away which only hinders any ones entrance into Heaven.</p>
+            <p>As touching, whither our iniquity be pardoned or not, is the chiefeſt fear and trouble to knowing people and believers, which they have when they do walk ſoftly all the reſidue of their years in the bitterneſs of their Soul. The Scripture token and evidence whereby we may know vvhither our paſt iniquity is pardoned or not, is according as vve are <hi>cleanſed from all unrighteou<g ref="char:EOLhyphen"/>neſs,</hi> for the time to come. <hi>If he that giveth ſtrength and power unto his people</hi> Pſal. 68. 35. Doth give Strength and Povver to abſtain from the like for the future. Thus much is gathered from that of the Apoſtle, <hi>If we confeſs our ſins, he is faithful, and juſt to forgive us our ſins, and to cleanſe us from all unrighteouſneſs,</hi> 1 John 1. 9. This Scripture is not to be taken piece meal, but all together. So that according as any one is <hi>cleanſed ſrom all unrighteouſneſs,</hi> That is cleanſed from every thing vvhich is contrary unto or different from that great and compleat Rule of Righteouſneſs: This is a ſure token that thy ſins are forgiven thee.</p>
+            <p>And alſo, when the Prophet <hi>Iſaiah</hi> ſaith, <hi>That the in<g ref="char:EOLhyphen"/>iquity of Jeruſalem is pardoned, for ſhe hath received of the Lord's hands double for all her ſins.</hi> Hence it may be reaſoned and concluded in the like manner. <hi>We are chaſtened of the Lord, that we ſhould not be condemned with the World,</hi> 1 Cor. 11. 32. When we have afflictions and troubles, hereby God doth puniſh us in this World for our ſins, that we may be ſpared in the World to come. This alſo is ſome comfortable euidence that our iniquity is pardoned. For as the Apoſtle ſaith, <hi>Some Men's ſins are open before hand, going before to Judgment, and ſome Men's ſins follow after,</hi> 1 Tin. 5. 24. So the ſins of ſome people are puniſhed in this World, that they may not be puniſhed after the day of Judgment. So the puniſhment of the ſins of other people, is reſpited and forborn in this Life, but deferred until and to be executed after the day of Judgment. If we endure more chaſtening and trouble than others who are greater
+<pb n="17" facs="tcp:153003:9"/> ſinners than our ſelves; <hi>The Judge of all the Earth will do right,</hi> ſo that Moſt certainly we ſhall fare better than they in the World that is to come.</p>
+            <p>From the things that have been ſpoken, it appears: That the way whereby we may avoid the <hi>Wo</hi> denounced againſt us upon the account of the day of our life going away, is to do theſe three things eſpecially.</p>
+            <p>
+               <hi>Firſt,</hi> Be ſure to finiſh that Work which God ſent thee on this Earth for to do.</p>
+            <p>
+               <hi>Secondly,</hi> Stand in aw and ſin not, and abſtain from all appearance of evil.</p>
+            <p>
+               <hi>Thirdly,</hi> Pray without ceaſing unto God, and labour earneſtly to get all thy paſt Sins, Iniquities and Tranſ<g ref="char:EOLhyphen"/>greſſions pardoned.</p>
+            <p>And take it for a general rule beſides to be follow<g ref="char:EOLhyphen"/>ed and obſerved: That whatever Trouble, ſorrow Melancholy, fear, or ſuch like doth ariſe in thy mind, there endeavour to know the true cauſe thereof. And then take away the cauſe, and the effect ceaſeth. Be ſure to anſwer all the requirings of God in thee. <hi>Turn you at my reproof,</hi> Prov, 1. 23. That is, at the reproof of God in thy Soul and Conſcience, whither the Lord be upon thee with a <hi>ſtill voice,</hi> in the gentle motions and dictates of his Spirit; or if he doth <hi>Inſtruct thee with a ſtrong hand, that thou ſhouldſt not walk in the way of this people;</hi> That thou ſhouldſt not do ſuch a thing or ſuch a thing, In all theſe or alike caſes, <hi>Do not turn away thy Ear, nor yet 'be Rebellious.</hi> For this Life is the time of tryal and the day of Temptation in the Wilder<g ref="char:EOLhyphen"/>neſs, wherein God doth prove thee whither thou wilt keep his Commandments or not. There is a Wo pro<g ref="char:EOLhyphen"/>nounced or elſe implyed if thou ſhouldeſt turn away the Ear, or be Rebellious: Which ſame Wo, though it is now in word only, yet after the day of this life is gone, will fall down upon thee in Puniſhment and Miſery.</p>
+            <p>The Wo or Threatning of God is of the like Nature with that <hi>flying roll or curſe that goeth forth over the face of <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he whole Earth: For every one that ſtealeth ſhall be cut off as <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n this ſide, according to it: and every one that ſweareth ſhall <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e cut off, as on that ſide, according to it,</hi> Zech. 5. 2, 3. Here the fly<g ref="char:EOLhyphen"/>ing
+<pb n="18" facs="tcp:153003:10"/> roll and curſe is ſaid to go forth over the face of the whole Earth, That is, for the preſent little time bet<g ref="char:EOLhyphen"/>ween, It doth hover ſomewhat above them, and it doth not pitch. But at length it will light upon the hairy ſcalp of the ſinner, and it ſhall be done unto him according to the ſame flying roll, curſe or threatning, when <hi>God ſhall wound the head of his enemies and the hairy ſcalp of ſuch a one as goeth on ſtill in his Treſpaſſes.</hi>
+            </p>
+            <p>If we did live in Righteouſneſs and Holineſs before him all the days of our life, we might ſerve God with<g ref="char:EOLhyphen"/>out fear, as may be underſtood from <hi>Luke</hi> 1 74. 75. But as long as there is Fear, Trouble, Sorrow, and a cer<g ref="char:EOLhyphen"/>tain forebode or fearful expectation of a Wo to come, we ſhould do well to <hi>take heed 2 Pet.</hi> 1. 19. unto theſe as they may be Perceivable in our hearts; for all theſe do give notice and warning of ſome real future Evils to which they do relate.</p>
+            <p>Nay yet further, As ſaith the Apoſtle, <hi>I know nothing by my ſelf, yet I am not hereby juſtified.</hi> So when we com<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to know nothing of Trouble, Fear or Miſery as to futu<g ref="char:EOLhyphen"/>rity; and our Heart upon the utmoſt ſearch and ex<g ref="char:EOLhyphen"/>amination and enquiring diligently as to theſe thing<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to come, doth not <hi>meditate terrour</hi> (as very few do com<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> up to this ſtate) yet ſtill even here we ſhould not liv<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſecurely, nor over confidently, but according to th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> counſel of the Spirit of God, who knoweth all things <hi>Paſs the time of our ſojourning here in fear.</hi> And <hi>work o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> our Salvation with fear and trembling.</hi> But then here agai<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is a great difference between a fear which excites cau<g ref="char:EOLhyphen"/>tion and care, and another fear which <hi>hath Torment</hi> an<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> gendreth bondage, as is the caſe of thoſe who ha<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> not a well grounded hope.</p>
+            <p>It is the mind of the moſt high God, that his Se<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>vants as long as they are on this Earth, ſhould be ke<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in a Low, Trembling and Dependant ſtate and co<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>dition. Accordingly we Read in the Scriptures, Th<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the beſt Saints have been moſt fearful and apprehenſive partly of the Judgments, Wrath and Indignation of Go<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as alſo what is conſequent to that, of their own futu<gap reason="illegible" resp="#APEX" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſtate and condition. <hi>When I heard my Belly trembl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="19" facs="tcp:153003:10"/> my lips quivered at the voice, rottenneſs entred into my bones, and I trembled in my ſelf, that I might have reſt in the day of trouble: when he cometh up unto the people, he will invade me with his troups,</hi> Hab. 3. 16. For if when the Lord appeared on mount <hi>Sinah</hi> by his Angel only, ſo terri<g ref="char:EOLhyphen"/>ble was the ſight that <hi>Moſes</hi> (one of his beſt Servants and favourites) <hi>Said, I exceedingly fear and quake.</hi> Much more ſhall we exceedingly fear and quake, juſt as our Soul is taking flight into the inviſible World, where we ſhall come nearer unto and have a much more ſenſible and laſting apprehenſion of the great God himſelf, then ever the <hi>Iſraelites</hi> had of the preſence of his Angel on Mount <hi>Sinah. The Lord ſhall judge his people. It is a fear<g ref="char:EOLhyphen"/>full thing to fall into the hands of the living God.</hi> Which yet we muſt all do: <hi>Unto thee ſhall all fleſh come.</hi> And when the Lord ſhall Judge his People, even his own Saints and Servants by reaſon of the exceeding ſtrictneſs thereof, will have fears ariſing in their hearts alſo. <hi>And enter not into Judgment with thy Servant, for in thy ſight ſhall no Man living be juſtified,</hi> Pſal. 143. 2.</p>
+            <p>A Wo being pronounced againſt us indefinitely in the Text, for the day goeth away; this reaches and extends to the Houſe of God, even his Children and Servants. <hi>For the time is come that Judgment muſt begin at the Houſe of God; and if it firſt begin at us, what ſhall the end be of them that obey not the Goſpel of God? And if the Righteous ſcarcely be ſaved, wher ſhall the ungodly and ſinner appear?</hi> 1 Pet. 4. 17, 18.</p>
+            <p>The reſult of the whole is, The Spirit of the Lord doth ſpeak, and his word is gone out indefinitely. <hi>Wo unto us, for the day goeth away;</hi> Therefore all we dying Creatures, ſhould <hi>go ſoftly all our years in the bitterneſs of our Soul;</hi> We ſhould be in a very low and trembling condition, and wait all the days of our appointed time till our change come. <hi>Watch ye therefore and pray always, that ye may be accounted worthy to eſcape all theſe things that ſhall come to paſs, and to ſtand before the Son of Man,</hi> Luke 21. 36. Do your utmoſt diligence that ye may be accounted worthy to eſcape that Wo, which is pronounced: For the day goeth away, for the ſhadows of the evening are ſtretched out.</p>
+            <pb n="20" facs="tcp:153003:11"/>
+            <p>I ſhall now wind up the foregoing Diſcourſe with theſe two practical uſes and inferences.</p>
+            <list>
+               <item>The firſt uſe is of Warning.</item>
+               <item>The ſecond uſe is of inſtruction.</item>
+            </list>
+            <p>As <hi>John Baptiſt</hi> ſaid in his Preaching, <hi>O generation of vipers: Who hath warned ye to flee from the wrath to come! Bring forth therefore fruits meet for repentance.</hi> So if I could ſpeak to them all (O that the ſeveral Copies of theſe words might be made known unto them all) I would uſe a like form of ſpeech. O ye Inhabitants of the Earth, Who hath warn<g ref="char:EOLhyphen"/>ed ye to flee from the wrath to come? If ye ſay, the written word of God (who thereby warns us <hi>of thing not ſeen as yet,</hi> Heb. 11. 7.) and the preaching of it by others. Ay, But here I would ask ye again, Have y<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> taken the warning? Bring forth therefore fruits meet for repentance, and ſuch fruits in your Life and Converſati<g ref="char:EOLhyphen"/>on, as are ſutable and agreeable to thoſe that are indeed warned to flee from the wrath to come. Are ye indeed and truly warned to flee from the wrath to come? What <hi>meaneth then that bleating of the ſheep in mine ears, and th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> lowing of the oxen which I hear?</hi> What meaneth then thro<g ref="char:EOLhyphen"/>ughout the Earth this <hi>joy and gladneſs, ſlaying Oxen and kil<g ref="char:EOLhyphen"/>ling Sheep, eating Fleſh and drinking Wine: Let us eat and drink, for to morrow we ſhall die.</hi> Are ye indeed truly warned to flee from the wrath to come? What meaneth than <hi>thi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> iniquity of thy Siſter Sodom</hi> (which is almoſt in all Cities Towns and Villages, but more eſpecially in the Houſe of rich People) <hi>Pride, fulneſs of Bread and abundance o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Idleneſs was in her, and in her Daughters; neither did ſh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſtrengthen the hand of the poor and needy.</hi> Are ye indeed throughly warned to flee from the wrath to come? Wh<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> then do ſo many ſay in their hearts, <hi>My Lord delayeth hi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> coming, and they begin to beat the Men ſervants and the Mai<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſervants,</hi> (or what is to the ſame effect, they torment and oppreſs their fellow Creatures) <hi>and they eat and the<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> drink and are drunken.</hi> Take heed therefore leaſt this b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> literally fulfilled upon ye to your endleſs miſery and con<g ref="char:EOLhyphen"/>demnation, <hi>And as it was in the days of Noah, ſo ſhall i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be in the days of the Son of Man. They did eat, the<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> drank, they married wives, they were given in marriage unti<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the day that Noah entred in<g ref="char:EOLhyphen"/>to
+<pb n="21" facs="tcp:153003:11"/> the Ark, and the flood came and deſtroyed them all. Like<g ref="char:EOLhyphen"/>wiſe alſo as it was in the days of Lot, they did eat, they drank, they bought, they ſold, they planted, they builded.</hi> (It is now the very ſame in theſe our days) <hi>But the ſame day that Lot went out of Sodom, it rained Fire and Brimſtone from Heaven and deſtroyed them all: Even thus ſhall it be in the day when the Son of Man is revealed.</hi> If the reaſonable inhabitants of this Earth were like <hi>Noah</hi> here mentioned, <hi>warned of God of things not ſeen as yet,</hi> or if they did ſo take the warning of things, as they are made known in the Scriptures, then they would not ſeek to an <hi>Arm of fleſh,</hi> or to Creature comforts and Creature contentments as now they do, to drive away the griefs and ſorrows of a ſhort, but yet a tedious and irkſom life. They would not then ſo much reſort to Ale Houſes, Taverns, carnal company, idle recreations, the continual hurry of Word<g ref="char:EOLhyphen"/>ly buſineſs as now they do, only to forget and make themſelves unmindful of that <hi>Wo</hi> which hangs over their heads becauſe the day of their life goeth away. How can ſuch Hear or Read ſuch a Scripture without trembling? <hi>Ye have lived in pleaſure on the Earth, ye have been wanton, ye have nouriſhed your hearts as in the day of ſlaughter,</hi> Jam. 5. 5. For though there is as earneſt a deſire in the reaſonable Creature after happineſs and ſatisfaction as <hi>Rachel</hi> had after Children, <hi>Give it me or elſe I die,</hi> I had rather not be at all than not be happy; yet here they would do well to <hi>underſtand and ſeek after God,</hi> and to know the order of his Diſpenſation and dealings towards the Chil<g ref="char:EOLhyphen"/>dren of Men, that is to ſay, to give them a being here, and a well being hereafter, to uphold them here, and make them happy and bleſſed for ever. They ſhould <hi>be<g ref="char:EOLhyphen"/>lieve in God and truſt in his Salvation:</hi> Have recourſe to his word, and pacifie themſelves with hope and expect<g ref="char:EOLhyphen"/>ation of better things to come; look back upon the ex<g ref="char:EOLhyphen"/>ample of Saints heretofore, who were our <hi>Brethren</hi> in the fleſh, and are now <hi>partakers of the Heavenly calling.</hi> Hence would ſpring up greater and more enduring com<g ref="char:EOLhyphen"/>fort than from Wine, ſtrong drink, or from the outward divertiſements of Wordly recreations or company. <hi>And be not drunk with Wine wherein is exceſs, but be ye filled
+<pb n="22" facs="tcp:153003:12"/> with the Spirit.</hi> For as that ſame Spirit gives us a knovv<g ref="char:EOLhyphen"/>ledge of the good things of God, vvhich he vvill give unto thoſe vvho Love, Fear and ſerve him; and as the ſame Spirit <hi>Sealeth</hi> unto us an Intereſt and Propriety in them, It takes of from and ſecures againſt the <hi>Wo for the day goeth away,</hi> much more than all the outvvard things of this World.</p>
+            <p>O that theſe vvords might go out unto the ends of the Earth, Why vvill not Men (vvho are made as Angels of God, knovving Good and Evil) knovv theſe things be<g ref="char:EOLhyphen"/>fore hand? Eſpecially vvhen they are capable to knovv theſe things before hand, as they ſtand in the order and determination of our God. <hi>Yea, the ſtork in the Heaven knoweth her appointed times, and the Turtle, and the Crane, and the Swallow obſerve the time of their coming, but my people know not the Judgment of their God.</hi> The Svvallovv hath lately obſerved the time of her going avvay again, bu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> People do not obſerve, or they do not lay it ſo throughly to heart as they ſhould, the time of their going out of this World, and their coming to appear before God. This vvill be the condemnation of Mankind that they vvill not do according to the knovvledge and reaſons given them, as Beaſts and Birds go and move accor<g ref="char:EOLhyphen"/>ding to that inſtinct implanted in them. Hovvever as God ſpeaks by Ezekiel, <hi>Son of Man, I have made thee <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Watch Man unto the Houſe of Iſrael: Therefore hear this word at my mouth, and give them warning from me.</hi> God hath made the Miniſters and Preachers of his vvord <hi>Watch-Men</hi> unto the Inhabitants of the Earth, and accordin<g ref="char:EOLhyphen"/>gly vve hear the vvord at his mouth, as it is vvritten in the <hi>lively Oracles,</hi> the <hi>Book of the Lord;</hi> and out of that vve give them vvarning as from God. So that let people do as they will; <hi>Whither they will hear or forbear, for they are moſt Rebellious:</hi> Yet ſtill the Scriptures vvith the true and faithful Preaching thereof, are a ſtanding and continued vvarning unto the Inhabitants of the Earth, that all things are indeed ſo as they are therein ſpoken of.</p>
+            <p>Be vviſe therefore O ye Children of Men, Be inſtruct<g ref="char:EOLhyphen"/>ed ye Inhabitants of the Earth, to order your conver<g ref="char:EOLhyphen"/>ſation for the time to come according to the tenour and requir<g ref="char:EOLhyphen"/>ing
+<pb n="23" facs="tcp:153003:12"/> of the ſame vvords. <hi>Bleſſed is he that readeth and they <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat hear the words of this prophecy, and keep thoſe things <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hich are written therein, for the time is at hand,</hi> Even nearer <gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen ever it vvas yet. And further, Bleſſed is he that doth according to all thoſe thoughts of Goodneſs and Truth vvhich the Lord doth from time to time (vvhen <hi>he waken<g ref="char:EOLhyphen"/>eth Morning by Morning)</hi> put into our Soul. Again on the other hand, a <hi>Wo</hi> or Curſe belongs unto them vvho do not. <hi>For the time is at hand,</hi> even juſt before us; or as it is in the vvords of our Text, <hi>The day goeth away, and the ſhadows of the Evening are ſtretched out.</hi> It is but a very little vvhile and the day vvill be quite gone avvay, and the ſhadovv of Death vvill be upon our eye lids, and each of us ſhall ſay, or vve ſhall find it ſo, <hi>Mine age is departed and is removed from me as a ſhepherds tent, I have cut off like a weaver my life: He will cut me off with <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pining ſickneſs: from Day even to Night wilt thou make an end of me.</hi> Which as the everliving God doth by us poor dying Creatures, We ſhould ſtrive and <hi>work together with his grace,</hi> vvhich vvould <hi>work in us mightily</hi> if vve are obedient to it, that as our outvvard Man periſh, the in<g ref="char:EOLhyphen"/>vvard Man is renevved day by day. <hi>Bleſſed is that Servant, whom his Lord when he cometh, ſhall find ſo doing.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>Practical Books Written and Publiſhed by <hi>Richard Stafford.</hi>
+            </head>
+            <p>OF Happineſs: Wherein it is fully and particularly manifeſted, That the greateſt happineſs of this Life conſiſts in the fear of God and keeping his Commandments, in oppoſition to the Plea<g ref="char:EOLhyphen"/>ſures of Sin, or the pretended conveniency of Diſobedience.</p>
+            <p>Rules and Directions for the preventing of, and Recovery out of Sickneſs.</p>
+            <p>A Diſcourſe againſt Partial Obedience: Or that dangerous deceit ſo univerſal amongſt them, who call themſelves Chriſtians, of keep<g ref="char:EOLhyphen"/>ing ſome of the Commandments of God and neglecting others.</p>
+            <p>Some Thoughts of the Life to come: With a brief account of the State of Religion, as it is now in the World.</p>
+            <p>The great Benefits of Chriſt to all that believe on and obey him: Being a Treatiſe on <hi>Hebrews.</hi> 2. 15. Wherein it is ſhewed and made known how People may be freed and delivered from that ſlaviſh fear of Death, whereby they are ſubiect to Bondage throughout their Life-time: and alſo how they may be ſaved and preſerved from
+<pb facs="tcp:153003:13"/> the Evil and danger of Death when it ſhall approach nigh an<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> come actually upon them,</p>
+            <p>An earneſt call to all the inhabitants of the Earth, to Turn im<g ref="char:EOLhyphen"/>mediately to the Lord their God.</p>
+            <p>An Exhortation unto all Diſſenters (however they are diſtingu<g ref="char:EOLhyphen"/>iſhed or named) to return into the Communion of the Church o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>England:</hi> So far, as all things are done therein, <hi>according to the Pat<g ref="char:EOLhyphen"/>tern ſhewed to us in the Goſpel.</hi>
+            </p>
+            <p>Six ſeveral Sermons Preached on <hi>Iſaiah</hi> 38. 1 Wherein that great Duty of ſetting our Body and Soul in order, for we ſhall die, is a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> large opened and explained.</p>
+            <p>The doctrine of the Croſs, or the Duty of Chriſtian ſuffering in a Sermon on <hi>Mat,</hi> 13. 20, 21.</p>
+            <p>A Sermon on, 1 <hi>Chron,</hi> 29. 18. And another on <hi>Mark</hi> 8. 36.</p>
+            <p>The Nature of God's Kingdom and Dominion over Men, in a Diſcourſe on <hi>Deut,</hi> 8. 2.</p>
+            <p>Divine Arithmetick Illuſtrated in the Right and Exact Numbrin<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of our Days, or a Diſcourſe of the near and continued approache<gap reason="illegible" resp="#APEX" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Death unto every one whatſoever.</p>
+            <p>The Extenſiveneſs and Comprehenſiveneſs of the future Judg<g ref="char:EOLhyphen"/>ment of God.</p>
+            <p>A Diſcourſe of the Miſery of Hell and Happineſs of Heaven, Grounded from <hi>Mat.</hi> 25. 46.</p>
+            <p>A Diſcourſe of God's hearing Prayer, Grounded from <hi>John</hi> 9. 31. The obſervation of the three Great Feſtivals aſſerted in the Chri<g ref="char:EOLhyphen"/>ſtian Church, and alſo the Right manner of the obſervance of them made known in a Sermon on <hi>Col.</hi> 3. 1 Preached on <hi>Eaſter-Day.</hi>
+            </p>
+            <p>A Sermon Preached unto the Inhabitants of the Town of <hi>Thorn<g ref="char:EOLhyphen"/>bury</hi> in <hi>Gloceſter-ſhire, March</hi> 20. 1697. on <hi>Pſal.</hi> 143. 8.</p>
+            <p>Two ſeveral Sermons on <hi>Phil.</hi> 4. 11, 12.</p>
+            <p>The neceſſity of keeping unto the Ordinances of Religion, Prayer Hearing the word, Baptiſm and the Lord's Supper, in a Sermon on <hi>Acts.</hi> 6. 4. A Sermon of the devices of Satan on 2 <hi>Cor.</hi> 2. 11.</p>
+            <p>The exceeding Great Comfort and Benefit of having <hi>walked before God in Truth, and with a Perfect Heart, and of having done that which is Good in his ſight;</hi> Set forth in ſeveral Diſcourſes on <hi>Iſaiah</hi> 38. 2, 3.</p>
+            <p>Another Sermon on <hi>Iſaiah</hi> 38. 4, 5. And another on <hi>Jer.</hi> 6. 4.</p>
+            <p>Three ſeveral Diſcourſes on Rom. 9. 6. <hi>Not as though the word of God hath taken none effect: For they are not all Iſrael which are of Iſrael.</hi>
+            </p>
+            <p>Two Diſcourſes on <hi>Coloſſ.</hi> 3. 1. and another on <hi>Acts</hi> 2. 11.</p>
+            <p>The cauſe and cure of Diviſions: Or the way and means for all Chriſtians to come to Unity.</p>
+            <p>The Great, Uſeful and Bleſſed Duty of a Contentment, Wil<g ref="char:EOLhyphen"/>lingneſs and Deſire to Die: Set forth upon true and aſſured grounds. Any of which aformentioned Books may be had at the Author's <hi>Hired Houſe</hi> in <hi>Ewers</hi> Street, <hi>Southwark.</hi>
+            </p>
+         </div>
+         <div type="authors_notice">
+            <pb facs="tcp:153003:13" rendition="simple:additions"/>
+            <head>Advertiſement.</head>
+            <p>THeſe are to give notice, That I have ſeveral other Practical Sermons or Diſcourſes of mine own Com<g ref="char:EOLhyphen"/>poſing lying by me in Manuſcript: Which if they who have the Plenty or Competency of this World's Goods, would <hi>(According to their ſeveral Ability,</hi> Acts 11. 29.) Thus <hi>Conſecrate ſome part of their gain and ſubſtance unto <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Lord,</hi> Micah 4. 13. So as to be <hi>ready to diſtribute, and willing to Communicate</hi> towards the outward Labour and Charge of the Printing and Publiſhing of them, it would be for the Glory of God <hi>(in making known his Truth,</hi> Iſa. 38. 19.) And for the Edification and Benefit of his Church and People; and conſequently it would be a Good work in ſuch Perſons who ſhall be helpful and any ways aſſiſtant herein, for which they would be rewarded by God in the Life that is to come.</p>
+            <p>
+               <hi>And I ſay unto you, Make to your ſelves Friends of the</hi> Mammon <hi>of unrighteouſneſs; that when ye fail, they may receive you into Everlaſting Habitations,</hi> Luke 16. 9. <hi>Charge them that are rich in this World, that they do Good, that they be Rich in Good Works, ready to Diſtribute, willing to Communicate, laying up in Store for themſelves a good Foundation againſt the time to come, that they may lay hold on Eternal Life,</hi> 1 Tim. 6. 17. 18. 19. <hi>This is a faithful ſaying, and theſe things I will that thou affirm conſtantly, that they which have believed in God, might be careful to maintain Good Works; theſe things are Good and Profitablſi unto Men,</hi> Titus 3. 8.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
